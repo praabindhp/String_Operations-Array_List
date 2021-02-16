@@ -1,6 +1,7 @@
 # String_Operations-Array_List
 Java Program For String Operations Array List
 
+Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
 
 This Is A Java Program For String Operations Using Array List
 
