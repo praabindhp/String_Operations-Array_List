@@ -5,6 +5,8 @@ Java is a class-based, object-oriented programming language that is designed to 
 
 This Is A Java Program For String Operations Using Array List
 
+ArrayList in Java is the most frequently used collection class after HashMap in Java.
+
 Operations Performed :
 
     1. Append
